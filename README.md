@@ -1,3 +1,6 @@
 # Simple Personality App
 
-A new Flutter project.
+This is a simple personality app created using Flutter. 
+This is my first flutter app, so if there is any mistake please mention them. 
+
+Thank you!
